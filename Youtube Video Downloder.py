@@ -1,3 +1,4 @@
+# Before execution do pip install pytube
 import pytube
 link = "video link"
 yt = pytube.YouTube(link)
